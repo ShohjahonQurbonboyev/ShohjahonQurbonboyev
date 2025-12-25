@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="./github-contribution-grid-snake.svg" width="700"/>
+  <img src="https://github.com/ShohjahonQurbonboyev/ShohjahonQurbonboyev/blob/output/github-contribution-grid-snake.svg" />
 </p>
